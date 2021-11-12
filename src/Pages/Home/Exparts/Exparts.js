@@ -32,7 +32,7 @@ const ourExparts = [
 
 const Exparts = () => {
     return (
-        <div className="container">
+        <div id="exparts" className="container">
             <h2 className="text-primary mt-3 mb-5">Our Exparts</h2>
             <div className="row">
                 {
